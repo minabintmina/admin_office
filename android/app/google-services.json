@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466783074684",
+    "project_id": "purair-a8c72",
+    "storage_bucket": "purair-a8c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466783074684:android:0d8d11a17e262766500cf9",
+        "android_client_info": {
+          "package_name": "com.admin.admin_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5J-1Jv3GI7Om9_xt8HKEIds9aGFUzds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466783074684:android:d65c1498c03491d4500cf9",
+        "android_client_info": {
+          "package_name": "com.purair.purair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5J-1Jv3GI7Om9_xt8HKEIds9aGFUzds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
